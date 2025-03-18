@@ -12,6 +12,10 @@ export default function Page() {
         <Link href="/week-5" className="text-green-500 underline text-lg">week-5</Link>
         <Link href="/week-6" className="text-green-500 underline text-lg">week-6</Link>
         <Link href="/week-7" className="text-green-500 underline text-lg">week-7</Link>
+        <Link href="/week-8" className="text-green-500 underline text-lg">week-8</Link>
+        <Link href="/week-9" className="text-green-500 underline text-lg">week-9</Link>
+        <Link href="/week-10" className="text-green-500 underline text-lg">week-10</Link>
+
       </div>
     </main>
     </div>
